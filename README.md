@@ -1,3 +1,11 @@
+### Hi! 👋
+
+I'am, a cyber security researcher driven by a passion for safeguarding digital landscapes. Specializing in advanced threat detection and incident response, I am dedicated to developing innovative solutions that protect organizations from evolving cyber threats. With a commitment to continuous learning and collaboration, I strive to contribute to a secure and resilient digital environment.
+
+##### MOTTO
+
+> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
+
 <div align="center">
 	<br>
 		<img src="good-times.svg" width="400px">
