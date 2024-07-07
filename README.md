@@ -1,5 +1,7 @@
 ### Hi! 👋
 
+<img src="https://github.com/pflashpunk/pflashpunk/blob/7aad5d7254c0a2d3116ce786bea05734bfe33c01/mybanner.png" alt="Banner about Pflash Punk">
+
 I'am, a cyber security researcher driven by a passion for safeguarding digital landscapes. Specializing in advanced threat detection and incident response, I am dedicated to developing innovative solutions that protect organizations from evolving cyber threats. With a commitment to continuous learning and collaboration, I strive to contribute to a secure and resilient digital environment.
 
 ##### MOTTO
